@@ -1,3 +1,3 @@
 # shoprite_repo
-Data pipeline using spark
-Note: The codes are tested on Zeppelin running in a spark cluster
+Data pipeline using AWS EMR Cluster (Spark, Zeppelin, Hadoop, Hive)
+
